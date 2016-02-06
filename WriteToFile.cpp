@@ -1,5 +1,5 @@
 
-// Programming1.cpp 
+// WriteToFile.cpp 
 // creating a menu for headoffice
 // 27/03/2015
 // Sheel SHah
