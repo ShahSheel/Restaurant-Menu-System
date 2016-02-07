@@ -1,4 +1,4 @@
-/* Program2.cpp
+/* ReadingAndWriting.cpp
 This program reads the file created by the previous program, displays the
 entered data on the menu and lets the user type in the price
 of the food and total. It will them calculate the bill and
